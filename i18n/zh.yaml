@@ -4,7 +4,7 @@
 - id: lastModified
   translation: "(更新 {{ . }})"
 - id: translationsLabel
-  translation: "其它语言: "
+  translation: "其它语言"
 - id: translationsSeparator
   translation: ","
 - id: readMore
