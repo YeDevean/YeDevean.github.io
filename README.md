@@ -1,7 +1,7 @@
 ## 博客
 
 
-## 安装软件
+### 安装软件
 
 
 ```bash
@@ -12,12 +12,21 @@
   
   brew install go 
   
+  brew install node
+  
 ```
 
-## 常用命令
+### 初始化依赖包
+    
+    ```bash
+      npm install
+    ```
 
 
-##  内容管理
+----
+
+
+###  内容管理
 
 
 ```bash
